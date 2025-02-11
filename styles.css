@@ -5,4 +5,16 @@ img{
    text-decoration: none; /*decoraçao do texto*/
    color: #1f1f1f; /*cor de texto*/
    font-size: 13px;  /*tamanho fonte*/
+    font-family: sans-serif;/*titulo/familia*/
  }
+
+.botao-login{
+    background-color: #1a73e8; /*cor do plano de fundo*/
+    color: white;
+    padding: 13px 12px;/*espaçamento interno*/
+    border-radius: 20px;/*borda redonda*/
+}
+.icone-produtos{
+    width: 24.01px;/*largura*/
+    fill: #444746;
+}
