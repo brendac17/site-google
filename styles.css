@@ -1,6 +1,8 @@
 *{ /*UNIVERSAL*/
     margin: 0;/*MARGEM*/
     padding: 0;/*ESPAÇAMENTO INTERNO*/
+    font-family: arial, sans-serif;
+    font-size: 13px;
 }
 
 
@@ -27,4 +29,10 @@ img{ /*ESTILO TAG IMAGEM*/
 }
 footer{
     background-color: #f2f2f2 /*cor de fundo*/
+}
+.caixa-rodape{
+    padding: 15px 30px;
+}
+.caixa-rodape--borda{
+    border-bottom: 1PX solid #dadce0; /*borda inferio*/
 }
